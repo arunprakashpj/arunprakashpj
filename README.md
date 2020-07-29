@@ -22,7 +22,7 @@
 </a>
 <br />
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi)
+### Glad to see you here! 🤩 !
 
 I'm a final student pursuing Masters in Computer Science 🎓 from Chalmers University of Technology, Sweden🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Completed the specialization in Distributed Systems and Cyber Security 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
