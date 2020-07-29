@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/arunprakashpj">
   <img align="left" alt="Arun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://stackoverflow.com/arunprakashpj">
+<a href="https://stackoverflow.com/users/2351527/arunprakashpj">
   <img align="left" alt="Arun's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://github.com/arunprakashpj">
