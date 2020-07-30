@@ -20,7 +20,7 @@
 <a href="https://twitter.com/arunprakashpj">
   <img align="left" alt="Arun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.quora.com/arunprakashpj/">
+<a href="https://www.quora.com/profile/ArunPrakash-Jothimani">
   <img align="left" alt="Arun's Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
 </a>
 <br />
