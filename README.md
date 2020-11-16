@@ -14,9 +14,6 @@
 <a href="https://knockitin.blogspot.com/">
   <img align="left" alt="Arun's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
-<a href="https://www.leetcode.com/arunprakashpj/">
-  <img align="left" alt="Arun's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
 <a href="https://twitter.com/arunprakashpj">
   <img align="left" alt="Arun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
