@@ -11,6 +11,9 @@
 <a href="https://github.com/arunprakashpj">
   <img align="left" alt="Arun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://www.leetcode.com/arunprakashpj/">
+  <img align="left" alt="Arun's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 <a href="https://knockitin.blogspot.com/">
   <img align="left" alt="Arun's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
@@ -31,7 +34,7 @@ I'm a final year Volvo Group Scholar pursuing Masters in Computer Science 🎓 f
 - 🔭 I’m currently working on Cloud and Cyber Security 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Distributed Systems / Security Engineering Stack.
-- 📫 How to reach me: arunprakashpj@gmail.com | [LinkedIn](https://www.linkedin.com/in/arunprakashpj) | [Twitter](https://twitter.com/arunprakashpj) | [Curriculum Vitae](https://drive.google.com/file/d/1aLjciqIW8EyZ0nuG80YNsPrqI1UwzXrT/view?usp=sharing)
+- 📫 How to reach me: arunprakashpj@gmail.com | [LinkedIn](https://www.linkedin.com/in/arunprakashpj) | [Twitter](https://twitter.com/arunprakashpj) | [Curriculum Vitae](https://drive.google.com/file/d/1mC9fD6IceajvHBD77MtXlwBfCxcUn0WF/view?usp=sharing)
 - 💻 I have worked on Java, Python, Javascript, C++, React, AWS, Nmap, Burp suite, MySQL, Wireshark, Git, Docker, OpenVAS, JMeter, REST etc.
 - 💬 Ask me anything related to Back End Development ! Happy to teach, learn / explore together.
 - ⚡ Fun fact: I took my first programming assignment for free coffee 🤣. Hire [me](mailto:arunprakashpj@gmail.com?Subject=Hello%20Arun) 👨‍💻.
