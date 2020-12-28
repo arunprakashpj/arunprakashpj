@@ -27,15 +27,15 @@
 
 ### Glad to see you here! 🤩 !
 
-I'm a final year Volvo Group Scholar pursuing Masters in Computer Science 🎓 from Chalmers University of Technology, Sweden🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Completed the specialization in Distributed Systems and Cyber Security 👨🏻‍💻. I'm currently into Web Development and working on my Data Structures and Algorithms 🕸️ In the past, I have worked at the organizations like Huawei Research, ADP India, BlackBerry and Linux Foundation 🤓.
+I'm a final year Volvo Group Scholar pursuing Masters in Computer Science 🎓 from Chalmers University of Technology, Sweden🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Completed the specialization in Distributed Systems and Cyber Security 👨🏻‍💻. I'm an aspiring Cloud Solutions Architect and investing my time to explore Cloud Security 🕸️ In the past, I have worked at the organizations like Huawei Research, ADP India, BlackBerry and Linux Foundation 🤓.
 
 ### More about me...
 
 - 🔭 I’m currently working on Cloud and Cyber Security 💻.
-- 🌱 I’m currently learning Full Stack Development 🚀.
+- 🌱 I’m exploring about the Infrastrcuture-as-code as a part of my thesis work 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Distributed Systems / Security Engineering Stack.
 - 📫 How to reach me: arunprakashpj@gmail.com | [LinkedIn](https://www.linkedin.com/in/arunprakashpj) | [Twitter](https://twitter.com/arunprakashpj) | [Curriculum Vitae](https://drive.google.com/file/d/1mC9fD6IceajvHBD77MtXlwBfCxcUn0WF/view?usp=sharing)
-- 💻 I have worked on Java, Python, Javascript, C++, React, AWS, Nmap, Burp suite, MySQL, Wireshark, Git, Docker, OpenVAS, JMeter, REST etc.
+- 💻 I have worked on Java, Python, Javascript, C++, Azure, AWS, React, Nmap, Burp suite, MySQL, Wireshark, Git, Docker, OpenVAS, JMeter, REST etc.
 - 💬 Ask me anything related to Back End Development ! Happy to teach, learn / explore together.
 - ⚡ Fun fact: I took my first programming assignment for free coffee 🤣. Hire [me](mailto:arunprakashpj@gmail.com?Subject=Hello%20Arun) 👨‍💻.
 
