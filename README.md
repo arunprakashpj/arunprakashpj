@@ -34,7 +34,7 @@ I'm a final year Volvo Group Scholar pursuing Masters in Computer Science 🎓 f
 - 🔭 I’m currently working on Cloud and Cyber Security 💻.
 - 🌱 I’m exploring about the Infrastrcuture-as-code as a part of my thesis work 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Distributed Systems / Security Engineering Stack.
-- 📫 How to reach me: arunprakashpj@gmail.com | [LinkedIn](https://www.linkedin.com/in/arunprakashpj) | [Twitter](https://twitter.com/arunprakashpj) | [Curriculum Vitae](https://drive.google.com/file/d/1mC9fD6IceajvHBD77MtXlwBfCxcUn0WF/view?usp=sharing)
+- 📫 How to reach me: arunprakashpj@gmail.com | [LinkedIn](https://www.linkedin.com/in/arunprakashpj) | [Twitter](https://twitter.com/arunprakashpj) | [Curriculum Vitae](https://drive.google.com/file/d/1O4Xxg-Y4_tCTmeCiKtHqDSim2HdNoQFo/view?usp=sharing)
 - 💻 I have worked on Java, Python, Javascript, C++, Azure, AWS, React, Nmap, Burp suite, MySQL, Wireshark, Git, Docker, OpenVAS, JMeter, REST etc.
 - 💬 Ask me anything related to Back End Development ! Happy to teach, learn / explore together.
 - ⚡ Fun fact: I took my first programming assignment for free coffee 🤣. Hire [me](mailto:arunprakashpj@gmail.com?Subject=Hello%20Arun) 👨‍💻.
