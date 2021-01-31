@@ -8,9 +8,6 @@
 <a href="https://stackoverflow.com/users/2351527/arunprakashpj">
   <img align="left" alt="Arun's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-<a href="https://github.com/arunprakashpj">
-  <img align="left" alt="Arun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://www.leetcode.com/arunprakashpj/">
   <img align="left" alt="Arun's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
