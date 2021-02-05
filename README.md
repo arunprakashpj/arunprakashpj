@@ -29,7 +29,7 @@ I'm a final year Volvo Group Scholar pursuing Masters in Computer Science 🎓 f
 ### More about me...
 
 - 🔭 I’m currently working on Cloud and Cyber Security 💻.
-- 🌱 I’m exploring about the Infrastrcuture-as-code as a part of my thesis work 🚀.
+- 🌱 I’m exploring about the Cloud Governance as a part of my thesis work at Volvo Cars🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Distributed Systems / Security Engineering Stack.
 - 📫 How to reach me: arunprakashpj@gmail.com | [LinkedIn](https://www.linkedin.com/in/arunprakashpj) | [Twitter](https://twitter.com/arunprakashpj) | [Curriculum Vitae](https://drive.google.com/file/d/1K2mlulRCaOqsCnjLYkNvN9M1VNHmrQu0/view?usp=sharing)
 - 💻 I have worked on Java, Python, Javascript, C++, Azure, AWS, React, Nmap, Burp suite, MySQL, Wireshark, Git, Docker, OpenVAS, JMeter, REST etc.
