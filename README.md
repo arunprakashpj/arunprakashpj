@@ -29,7 +29,7 @@ I'm a final year Volvo Group Scholar pursuing Masters in Computer Science 🎓 f
 - 🌱 I’m exploring about the Cloud Governance (Azure), Infrastrcuture as Code as a part of my thesis work at Volvo Cars🚀.
 - 👯 Az 900 Certified | Aviatrix Certified Multicloud Network Associate | Excited about Azure after my Udacity Nanodegree - DevOp Engineer for Azure! Towards --> Az 103
 - 📫 How to reach me: arunprakashpj@gmail.com | [LinkedIn](https://www.linkedin.com/in/arunprakashpj) | [Twitter](https://twitter.com/arunprakashpj) | [Curriculum Vitae](https://drive.google.com/file/d/1X17JIb2T8btLyQs9kLFg60cevpzV331K/view?usp=sharing)
-- 💻 I have worked on Java, Python, Javascript, Azure, Terraform, Packer, Azure DevOp, React, Nmap, Burp suite, MySQL, Wireshark, Git, OpenVAS, JMeter, REST, CI CD, Kubernetes,Helm, Docker etc.
+- 💻 I have worked on Java, Python, Javascript, Azure, Terraform, Packer, Azure DevOp, React, Nmap, Burp suite, MySQL, Wireshark, Git, OpenVAS, JMeter, REST, CI CD, Kubernetes, Helm, Docker etc.
 - 💬 Ask me anything related to Back End Development ! Happy to teach, learn / explore together.
 - ⚡ Fun fact: I took my first programming assignment for free coffee 🤣. Hire [me](mailto:arunprakashpj@gmail.com?Subject=Hello%20Arun) 👨‍💻.
 
