@@ -21,15 +21,15 @@
 
 ### Glad to see you here! 🤩 !
 
-I'm a final year Volvo Group Scholar pursuing Masters in Computer Science 🎓 from Chalmers University of Technology, Sweden🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Completed the specialization in Distributed Systems and Cyber Security 👨🏻‍💻. I'm an aspiring Cloud Solutions Architect and investing my time to explore Cloud Security 🕸️ In the past, I have worked at the organizations like Huawei Research, ADP India, BlackBerry and Linux Foundation 🤓.
+Currently I work as a Cloud Native Developer at Ericsson AB, Sweden. As a Volvo Group Scholar, I graduated Masters in Computer Science 🎓 from Chalmers University of Technology, Sweden🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Completed the specialization in Distributed Systems and Cyber Security 👨🏻‍💻. I'm an aspiring Cloud Solutions Architect and investing my time to explore Cloud Security 🕸️ In the past, I have worked at the organizations like Huawei Research, ADP India, BlackBerry and Linux Foundation 🤓.
 
 ### More about me...
 
-- 🔭 I’m currently working on Cloud and Cyber Security 💻.
-- 🌱 I’m exploring about the Cloud Governance (Azure), Infrastrcuture as Code as a part of my thesis work at Volvo Cars🚀.
+- 🔭 I’m currently working on Cloud Native Tech Stack ---> Kubernetes, CI/CD, Helm, Observability 💻.
+- 🌱 I have explored the Cloud Governance (Azure), Infrastrcuture as Code as a part of my thesis work at Volvo Cars🚀.
 - 👯 Az 900 Certified | Aviatrix Certified Multicloud Network Associate | Excited about Azure after my Udacity Nanodegree - DevOp Engineer for Azure! Towards --> Az 103
 - 📫 How to reach me: arunprakashpj@gmail.com | [LinkedIn](https://www.linkedin.com/in/arunprakashpj) | [Twitter](https://twitter.com/arunprakashpj) | [Curriculum Vitae](https://drive.google.com/file/d/1X17JIb2T8btLyQs9kLFg60cevpzV331K/view?usp=sharing)
 - 💻 I have worked on Java, Python, Javascript, Azure, Terraform, Packer, Azure DevOp, React, Nmap, Burp suite, MySQL, Wireshark, Git, OpenVAS, JMeter, REST, CI CD, Kubernetes, Helm, Docker etc.
-- 💬 Ask me anything related to Back End Development ! Happy to teach, learn / explore together.
+- 💬 Ask me anything related to Back End Development, DevOps ! Happy to teach, learn / explore together.
 - ⚡ Fun fact: I took my first programming assignment for free coffee 🤣. Hire [me](mailto:arunprakashpj@gmail.com?Subject=Hello%20Arun) 👨‍💻.
 
