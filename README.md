@@ -21,13 +21,13 @@
 
 ### Glad to see you here! 🤩 !
 
-Currently I work as a Cloud Native Developer at Ericsson AB, Sweden. As a Volvo Group Scholar, I graduated Masters in Computer Science 🎓 from Chalmers University of Technology, Sweden🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Completed the specialization in Distributed Systems and Cyber Security 👨🏻‍💻. I'm an aspiring Cloud Solutions Architect and investing my time to explore Cloud Security 🕸️ In the past, I have worked at the organizations like Huawei Research, ADP India, BlackBerry and Linux Foundation 🤓.
+Currently I work as a Cloud Engineer at an Autonomous Driving Venture Zenseact AB (Subsidiary of Volvo Cars), Sweden. Prior to that, As a Volvo Group Scholar, I graduated Masters in Computer Science 🎓 from Chalmers University of Technology, Sweden🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Completed the specialization in Distributed Systems and Cyber Security 👨🏻‍💻. I'm an aspiring Cloud Solutions Architect and investing my time to explore Cloud Security 🕸️ In the past, I have worked at the organizations like Ericsson AB, Huawei Research, ADP India, BlackBerry and Linux Foundation 🤓.
 
 ### More about me...
 
-- 🔭 I’m currently working on Cloud Native Tech Stack ---> Kubernetes, CI/CD, Helm, Observability 💻.
+- 🔭 I’m currently working on Cloud + DevOps + BackEnd Tech Stack ---> Java, SpringBoot, Azure, Kubernetes, CI/CD, Helm, Observability 💻.
 - 🌱 I have explored the Cloud Governance (Azure), Infrastructure as Code as a part of my thesis work at Volvo Cars🚀.
-- 👯 Az 900 Certified | Aviatrix Certified Multicloud Network Associate | Excited about Azure after my Udacity Nanodegree - DevOp Engineer for Azure! Towards --> Az 103
+- 👯 4X Azure Certified | Aviatrix Certified Multicloud Network Associate | Hasicorp Certified Terraform Associate | GCP Architect Cert in --> Progress
 - 📫 How to reach me: arunprakashpj@gmail.com | [LinkedIn](https://www.linkedin.com/in/arunprakashpj) | [Twitter](https://twitter.com/arunprakashpj) | [Curriculum Vitae](https://drive.google.com/file/d/1H9WEhLHlOG1o7vHi0wrb6CfmznjGY_fW/view?usp=sharing)
 - 💻 I have worked on Java, Python, Javascript, Azure, Terraform, Packer, Azure DevOp, React, Nmap, Burp suite, MySQL, Wireshark, Git, OpenVAS, JMeter, REST, CI CD, Kubernetes, Helm, Docker etc.
 - 💬 Ask me anything related to Back End Development, DevOps ! Happy to teach, learn / explore together.
