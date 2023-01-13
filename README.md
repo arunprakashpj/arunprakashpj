@@ -28,7 +28,7 @@ Currently I work as a Cloud Engineer at an Autonomous Driving Venture Zenseact A
 - 🔭 I’m currently working on Cloud + DevOps + BackEnd Tech Stack ---> Java, SpringBoot, Azure, Kubernetes, CI/CD, Helm, Observability 💻.
 - 🌱 I have explored the Cloud Governance (Azure), Infrastructure as Code as a part of my thesis work at Volvo Cars🚀.
 - 👯 4X Azure Certified | Aviatrix Certified Multicloud Network Associate | Hasicorp Certified Terraform Associate | GCP Architect Cert in --> Progress
-- 📫 How to reach me: arunprakashpj@gmail.com | [LinkedIn](https://www.linkedin.com/in/arunprakashpj) | [Twitter](https://twitter.com/arunprakashpj) | [Curriculum Vitae](https://drive.google.com/file/d/1A26LdU03_gg9gO0P83FqKolgdDPE2-tt/view?usp=share_link)
+- 📫 How to reach me: arunprakashpj@gmail.com | [LinkedIn](https://www.linkedin.com/in/arunprakashpj) | [Twitter](https://twitter.com/arunprakashpj) | [Curriculum Vitae](https://drive.google.com/file/d/1c9UEJmQpev2vREZbPMEJoZJTeh-36n9Y/view?usp=share_link)
 - 💻 I have worked on Java, Python, Javascript, Azure, Terraform, Packer, Azure DevOp, React, Nmap, Burp suite, MySQL, Wireshark, Git, OpenVAS, JMeter, REST, CI CD, Kubernetes, Helm, Docker etc.
 - 💬 Ask me anything related to Back End Development, DevOps ! Happy to teach, learn / explore together.
 - ⚡ Fun fact: I took my first programming assignment for free coffee 🤣. Hire [me](mailto:arunprakashpj@gmail.com?Subject=Hello%20Arun) 👨‍💻.
