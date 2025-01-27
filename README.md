@@ -21,7 +21,7 @@
 
 ### Glad to see you here! 🤩 !
 
-Currently I work as a Cloud Engineer at an Autonomous Driving Venture Zenseact AB (Subsidiary of Volvo Cars), Sweden. Prior to that, As a Volvo Group Scholar, I graduated Masters in Computer Science 🎓 from Chalmers University of Technology, Sweden🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Completed the specialization in Distributed Systems and Cyber Security 👨🏻‍💻. I'm an aspiring Cloud Solutions Architect and investing my time to explore Cloud Security 🕸️ In the past, I have worked at the organizations like Ericsson AB, Huawei Research, ADP India, BlackBerry and Linux Foundation 🤓.
+Currently I work as a Cloud Security Engineer at H&M Sweden. Prior to that, As a Volvo Group Scholar, I graduated Masters in Computer Science 🎓 from Chalmers University of Technology, Sweden🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Completed the specialization in Distributed Systems and Cyber Security 👨🏻‍💻. I'm an aspiring Cloud Solutions Architect and investing my time to explore Cloud Security 🕸️ In the past, I have worked at the organizations like Volvo Cars, Ericsson AB, Huawei Research, ADP India, BlackBerry and Linux Foundation 🤓.
 
 ### More about me...
 
