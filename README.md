@@ -25,10 +25,10 @@ Currently I work as a Cloud Security Engineer at H&M Sweden. Prior to that, As a
 
 ### More about me...
 
-- 🔭 I’m currently working on Cloud + DevOps + BackEnd Tech Stack ---> Java, SpringBoot, Azure, Kubernetes, CI/CD, Helm, Observability 💻.
+- 🔭 I’m currently working on Cloud + DevOps + BackEnd Tech Stack focused on Security ---> Security focused on Cloud, Programming, Kubernetes, CI/CD, Helm, Observability 💻.
 - 🌱 I have explored the Cloud Governance (Azure), Infrastructure as Code as a part of my thesis work at Volvo Cars🚀.
-- 👯 4X Azure Certified | Aviatrix Certified Multicloud Network Associate | Hasicorp Certified Terraform Associate | GCP Architect Cert in --> Progress
-- 📫 How to reach me: arunprakashpj@gmail.com | [LinkedIn](https://www.linkedin.com/in/arunprakashpj) | [Twitter](https://twitter.com/arunprakashpj) | [Curriculum Vitae](https://drive.google.com/file/d/1oYOaoDo_5a8ezDxJd1Y75DSVfKO-856Z/view?usp=sharing)
+- 👯 6X Azure Certified | Aviatrix Certified Multicloud Network Associate | Hasicorp Certified Terraform Associate | GCP Architect Cert in --> Progress
+- 📫 How to reach me: arunprakashpj@gmail.com | [LinkedIn](https://www.linkedin.com/in/arunprakashpj) | [Twitter](https://twitter.com/arunprakashpj) | [Curriculum Vitae](https://drive.google.com/file/d/1b9DImWvi0x9UUgZzi1vS9q0m2vaqK9xl/view?usp=sharing)
 - 💻 I have worked on Java, Python, Javascript, Azure, Terraform, Packer, Azure DevOp, React, Nmap, Burp suite, MySQL, Wireshark, Git, OpenVAS, JMeter, REST, CI CD, Kubernetes, Helm, Docker etc.
 - 💬 Ask me anything related to Back End Development, DevOps ! Happy to teach, learn / explore together.
 - ⚡ Fun fact: I took my first programming assignment for free coffee 🤣. Hire [me](mailto:arunprakashpj@gmail.com?Subject=Hello%20Arun) 👨‍💻.
