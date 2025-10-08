@@ -23,7 +23,7 @@
 
 ### Glad to see you here! 🤩
 
-I’m a **Cloud Security Engineer at H&M Group**, driving large-scale security initiatives across more than **1650+ cloud subscriptions**. With a background in **cloud engineering, DevSecOps, and cybersecurity**, I specialize in securing identities, workloads, and infrastructure in **Azure and multicloud environments**.  Also actively involved in ISO27001 Standardization of the product.
+I’m a **Cloud Security Engineer/Architect at H&M Group**, driving large-scale security initiatives across more than **1650+ cloud subscriptions**. With a background in **cloud engineering, DevSecOps, and cybersecurity**, I specialize in securing identities, workloads, and infrastructure in **Azure and multicloud environments**.  Also actively involved in ISO27001 Standardization of the product.
 
 I hold a **Master’s in Computer Science (Cyber Security & Distributed Systems)** from **Chalmers University of Technology, Sweden**
 Over the years, I’ve worked across multiple organizations like **Ericsson, Volvo Cars, Zenseact, Huawei Research, ADP India, BlackBerry, and Linux Foundation**, where I contributed to building and scaling secure cloud-native systems.  
