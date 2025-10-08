@@ -8,11 +8,11 @@
 <a href="https://stackoverflow.com/users/2351527/arunprakashpj">
   <img align="left" alt="Arun's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-<a href="https://knockitin.blogspot.com/">
-  <img align="left" alt="Arun's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+<a href="https://medium.com/@arunprakashpj">
+  <img align="left" alt="Arun's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://twitter.com/arunprakashpj">
-  <img align="left" alt="Arun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://leetcode.com/u/arunprakashpj/">
+  <img align="left" alt="Arun's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://www.quora.com/profile/ArunPrakash-Jothimani">
   <img align="left" alt="Arun's Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
